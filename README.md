@@ -1,0 +1,3 @@
+# funScripts
+
+A majority of these are written by others and have been tweaked or adjusted to fit my wants and needs. I do not wish to take credit for any of these...
